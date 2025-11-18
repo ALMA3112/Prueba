@@ -1,0 +1,17 @@
+t1 = 2
+t2 = 3
+t3 = 4
+t4 = t2 * t3
+t5 = t1 + t4
+x = t5
+t6 = 5
+t7 = x - t6
+y = t7
+t8 = 10
+t9 = y > t8
+ifFalse t9 goto L1
+print x
+goto L2
+L1:
+print y
+L2:

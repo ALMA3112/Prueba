@@ -230,9 +230,8 @@ t7 = x - t6
 y = t7
 ```
 
----
 
-## 📊 Ejemplo Completo
+##  Ejemplo Completo
 
 ### Código Fuente
 

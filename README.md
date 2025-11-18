@@ -67,12 +67,19 @@ if ( y > 10 ) {
 El compilador genera automáticamente los siguientes archivos:
 
 1. **P3_Conjuntos.png** - Conjuntos FIRST y FOLLOW
+   ![.](https://github.com/ALMA3112/Prueba/blob/main/1/P3_Conjuntos.png)
 2. **P4_AST.png** - Árbol de Sintaxis Abstracta
+   ![](https://github.com/ALMA3112/Prueba/blob/main/1/P4_AST.png)
 3. **P5_Tabla.png** - Tabla de Símbolos
+   ![](https://github.com/ALMA3112/Prueba/blob/main/1/P5_Tabla.png)
 4. **P5_Codigo3D.png** - Código de 3 direcciones (imagen)
+   ![](https://github.com/ALMA3112/Prueba/blob/main/1/P5_Codigo3D.png)
 5. **codigo_3dir.txt** - Código de 3 direcciones (texto)
+    [3D](https://github.com/ALMA3112/Prueba/blob/main/1/codigo_3dir.txt)
 6. **P6_Gramatica.png** - Gramática del lenguaje
+    ![](https://github.com/ALMA3112/Prueba/blob/main/1/P6_Gramatica.png)
 7. **P7_ETDS.png** - Esquemas de Traducción Dirigida por Sintaxis
+    ![](https://github.com/ALMA3112/Prueba/blob/main/1/P7_ETDS.png)
 
 ##  Gramática del Lenguaje
 
